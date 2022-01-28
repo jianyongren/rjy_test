@@ -1,7 +1,7 @@
 {
-    "isSuccess":1,
+    "isSuccess":true,
     "message":"ok",
-    "errorCode":0,
+    "errorCode":"0",
     "data":[
         {
             "type":1,
