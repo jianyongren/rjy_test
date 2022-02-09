@@ -1,88 +1,93 @@
 {
-    "isSuccess":true,
-    "message":"ok",
-    "errorCode":"0",
-    "data":[
+    "isSuccess": true,
+    "message": "ok",
+    "errorCode": "0",
+    "data":
+    [
         {
-            "type":1,
-            "name":"售前服务",
-            "sub_title":"",
-            "sub_route":"",
-            "tools":[
-                {            "cover":"https://uploadfile.huiyi8.com/up/a1/6e/26/a16e262887ceca224a6bd5638c7f34ee.png",
-                    "flag_cover":"标签角标图标",
-                    "route":"/mine/xiaofeimingxi（客户端本地secheme）",
-                    "title":"销售咨询电话",
-                    "sub_title":"400-623-0183",
-                    "analyse_id":"奇点ID"
+            "type": 1,
+            "name": "售前服务",
+            "subTitle": "",
+            "subRoute": "",
+            "tools":
+            [
+                {
+                    "cover": "https://raw.githubusercontent.com/jianyongren/rjy_test/main/service_center/chat_yellow.png",
+                    "flagCover": "https://raw.githubusercontent.com/jianyongren/rjy_test/main/service_center/recommend.png",
+                    "route": "/mine/xiaofeimingxi（客户端本地secheme）",
+                    "title": "在线咨询服务",
+                    "subTitle": "随时随地为您解决问题",
+                    "analyseId": "奇点ID"
                 },
                 {
-                    "cover":"https://uploadfile.huiyi8.com/up/a1/6e/26/a16e262887ceca224a6bd5638c7f34ee.png",
-                    "flag_cover":"标签角标图标",
-                    "route":"/mine/订单管理",
-                    "title":"在线咨询服务",
-                    "sub_title":"",
-                    "analyse_id":"奇点ID"
+                    "cover": "https://raw.githubusercontent.com/jianyongren/rjy_test/main/service_center/phone_yellow.png",
+                    "flagCover": "",
+                    "route": "/mine/订单管理",
+                    "title": "销售咨询电话",
+                    "subTitle": "400-623-0183",
+                    "analyseId": "奇点ID"
                 }
             ]
         },
         {
-            "type":1,
-            "name":"售后服务",
-            "sub_title":"",
-            "sub_route":"",
-            "tools":[
+            "type": 1,
+            "name": "售后服务",
+            "subTitle": "",
+            "subRoute": "",
+            "tools":
+            [
                 {
-                    "cover":"https://uploadfile.huiyi8.com/up/a1/6e/26/a16e262887ceca224a6bd5638c7f34ee.png",
-                    "flag_cover":"标签角标图标",
-                    "route":"/mine/xiaofeimingxi（客户端本地secheme）",
-                    "title":"客服热门电话",
-                    "sub_title":"400-098-8505转2",
-                    "analyse_id":"奇点ID"
+                    "cover": "https://raw.githubusercontent.com/jianyongren/rjy_test/main/service_center/work_list.png",
+                    "flagCover": "https://raw.githubusercontent.com/jianyongren/rjy_test/main/service_center/recommend.png",
+                    "route": "/mine/xiaofeimingxi（客户端本地secheme）",
+                    "title": "工单服务",
+                    "subTitle": "提供产品使用咨询及基础技术支持",
+                    "analyseId": "奇点ID"
                 },
                 {
-                    "cover":"https://uploadfile.huiyi8.com/up/a1/6e/26/a16e262887ceca224a6bd5638c7f34ee.png",
-                    "flag_cover":"标签角标图标",
-                    "route":"/mine/订单管理",
-                    "title":"在线客服支持",
-                    "sub_title":"",
-                    "analyse_id":"奇点ID"
+                    "cover": "https://raw.githubusercontent.com/jianyongren/rjy_test/main/service_center/chat_red.png",
+                    "flagCover": "",
+                    "route": "/mine/订单管理",
+                    "title": "在线客服支持",
+                    "subTitle": "随时随地为您解决问题",
+                    "analyseId": "奇点ID"
                 },
                 {
-                    "cover":"https://uploadfile.huiyi8.com/up/a1/6e/26/a16e262887ceca224a6bd5638c7f34ee.png",
-                    "flag_cover":"标签角标图标",
-                    "route":"/mine/订单管理",
-                    "title":"工单服务",
-                    "sub_title":"",
-                    "analyse_id":"奇点ID"
+                    "cover": "https://raw.githubusercontent.com/jianyongren/rjy_test/main/service_center/phone_red.png",
+                    "flagCover": "",
+                    "route": "/mine/订单管理",
+                    "title": "客服热线电话",
+                    "subTitle": "400-098-8505转2",
+                    "analyseId": "奇点ID"
                 }
             ]
         },
         {
-            "type":2,
-            "name":"热门文档",
-            "sub_title":"更多文档",
-            "sub_route":"/servercenter/docs/more",
-            "docs":[
+            "type": 2,
+            "name": "热门文档",
+            "subTitle": "更多文档",
+            "subRoute": "/servercenter/docs/more",
+            "docs":
+            [
                 {
-                    "route":"https://www.jd.com",
-                    "title":"如何快速完成实名认证？",
-                    "analyse_id":"奇点ID"
+                    "route": "https://www.jdcloud.com/",
+                    "title": "如何快速完成实名认证？",
+                    "analyseId": "奇点ID"
                 },
                 {
-                    "route":"https://www.jd.com",
-                    "title":"零基础入门一网站建站入门教程",
-                    "analyse_id":"奇点ID"
+                    "route": "https://www.jdcloud.com/",
+                    "title": "零基础入门一网站建站入门教程",
+                    "analyseId": "奇点ID"
                 },
                 {
-                    "route":"https://www.jd.com",
-                    "title":"如何快速完成实名认证？",
-                    "analyse_id":"奇点ID"
+                    "route": "https://www.jdcloud.com/",
+                    "title": "如何快速完成实名认证？",
+                    "analyseId": "奇点ID"
                 },
                 {
-                    "route":"https://www.jd.com",
-                    "title":"零基础入门一网站建站入门教程",
-                    "analyse_id":"奇点ID"
+                    "route": "https://www.jdcloud.com/",
+                    "title": "零基础入门一网站建站入门教程",
+                    "analyseId": "奇点ID"
                 }
             ]
         }
